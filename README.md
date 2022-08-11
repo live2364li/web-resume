@@ -9,7 +9,7 @@ web前端个人简历：一个追梦在前端路上的小白
 
 
 #### 在线预览
-[web前端个人简历：一个追梦在前端路上的小白](http://wttandroid.gitee.io/wttandroid.github.io/)
+[web前端个人简历：一个追梦在前端路上的小白](https://web-resume-xi.vercel.app/)
 
 #### 使用说明
 1.  修改src/config.js内容作为配置文件
