@@ -93,7 +93,7 @@ export default {
     title: '图书管理系统',
     content: 'Vue,NodeJs图书管理系统前后端',
     image: 'box3.jpg',
-    href: 'https://gitee.com/wttAndroid/book_admin'
+    href: 'https://gitee.com/suggess/book_admin'
   }, {
     title: '校园约吧',
     content: 'Vue,NodeJs移动端校园项目前后端',
