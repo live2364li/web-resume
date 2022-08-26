@@ -88,7 +88,7 @@ export default {
     title: '508工作室',
     content: '漯河职业技术学院508工作室独立站点的维护',
     image: 'box1.png',
-    href: 'https://lab508.gitee.io/'
+    href: 'https://mianll.vercel.app/'
   }, {
     title: '图书管理系统',
     content: 'Vue,NodeJs图书管理系统前后端',
