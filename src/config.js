@@ -86,7 +86,7 @@ export default {
   // page5部分
   page5: [{
     title: '508工作室',
-    content: '晋城职业技术学院508工作室独立站点的维护',
+    content: '漯河职业技术学院508工作室独立站点的维护',
     image: 'box1.png',
     href: 'https://lab508.gitee.io/'
   }, {
